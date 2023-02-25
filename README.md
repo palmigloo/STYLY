@@ -17,8 +17,7 @@
 
 
 # Overview 
-
-![Trending](https://user-images.githubusercontent.com/3084586/221339547-1d0faeb8-14b6-4296-96d8-cf9de63eb2ce.gif)   ![Styling](https://user-images.githubusercontent.com/3084586/221339768-d4b74a28-0532-47cf-983d-5c44220d0851.gif)
+<img src="https://user-images.githubusercontent.com/3084586/221339547-1d0faeb8-14b6-4296-96d8-cf9de63eb2ce.gif"  width="300"> <img src="https://user-images.githubusercontent.com/3084586/221339768-d4b74a28-0532-47cf-983d-5c44220d0851.gif"  width="300"> <img src="https://user-images.githubusercontent.com/3084586/221339888-98e610b4-a111-4622-9922-e035e7a2dd9d.gif"  width="300">
 
 
 
