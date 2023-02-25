@@ -18,6 +18,9 @@
 
 # Overview 
 
+![Trending](https://user-images.githubusercontent.com/3084586/221339547-1d0faeb8-14b6-4296-96d8-cf9de63eb2ce.gif)   ![Styling](https://user-images.githubusercontent.com/3084586/221339768-d4b74a28-0532-47cf-983d-5c44220d0851.gif)
+
+
 
 # Detailed View 
 
