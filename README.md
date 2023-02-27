@@ -40,6 +40,11 @@ This Trending module focus on providing the most up to date fashion info and tre
 <img src="https://user-images.githubusercontent.com/3084586/221671464-cb1f6a9e-be5e-4cea-879f-ecd2a5a75c03.png"  width="250">  <img src="https://user-images.githubusercontent.com/3084586/221671440-7a23318e-51ca-4a54-bb54-7de76bef7d42.png"  width="255">
 
 ### Styling Module
+This Styling module aims to provide users personalized styling inspirations which includes features below : 
+  - A quick fashion quiz with 10 different preferrences 
+  - Generate 2 total looks based on fashion preferrences provided by the user using a recommendation algorithm
+
+<img src="https://user-images.githubusercontent.com/3084586/221677381-2725aa64-8ff9-4518-9017-d3b6a92f0746.png"  width="250">  <img src="https://user-images.githubusercontent.com/3084586/221677397-6ec072e3-cbbf-4184-82ac-0091ab3d7fc8.png"  width="255">
 
 ### My Boards Module
 
