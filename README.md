@@ -75,6 +75,11 @@ This module gives user all controls of their saved boards by providing features 
     - XCode
 
 # Author 
-<p align="center">
+Trilingual Software engineer professional based in Mountain View, CA.
+
+8 years international working experience in high tech and luxury retail, proficient in Full-stack development, with creativity and cross-cultural communication skills. 
+
+Start-up experience with multitasking abilities, working with client across Gaming, Media, eCommerce and Telecom industries.
+
 <a href="https://github.com/palmigloo"><kbd><img width="175" alt="Abigail" src="https://user-images.githubusercontent.com/3084586/208263347-363a0895-7ede-40f6-8f82-83434178ed66.png"></kbd></a>
-</p>
+
