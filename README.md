@@ -5,6 +5,9 @@
 [Overview](#overview)
 
 [Detailed View](#detailed-view)
+  - [Trending Module](#trending-module)
+  - [Styling Module](#styling-module)
+  - [My Boards Module](#my-boards-module)
 
 [Installation](#installation)
 
