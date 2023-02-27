@@ -21,7 +21,7 @@ STYLY has 3 main functionalities shown below:
   - Trending Module: This module allows user to check and save the most recent runway shows and fashion trends to a boards for future reference. 
   - Styling Module: This module gives user the opportunities to get some personalized styling ideas by taking a quick fashion quiz of 10 questions, and user can save those fashion ideas in a board.
   - My boards Module: This module holds all user saved boards from Trending and Styling modules, it also allows user to delete a entire board or a picture from a specific board.
-  - 
+  
 <pre>
 <img src="https://user-images.githubusercontent.com/3084586/221339547-1d0faeb8-14b6-4296-96d8-cf9de63eb2ce.gif"  width="250">    <img src="https://user-images.githubusercontent.com/3084586/221339768-d4b74a28-0532-47cf-983d-5c44220d0851.gif"  width="250">    <img src="https://user-images.githubusercontent.com/3084586/221339888-98e610b4-a111-4622-9922-e035e7a2dd9d.gif"  width="250">
 </pre>
