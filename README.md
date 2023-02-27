@@ -14,7 +14,7 @@
 
 
 # Project Description
-
+STYLY is a cross-platform mobile app for fashion lovers to capture the most current fashion trends, to get some personalized styling ideas. This app was designed and developed under a very limited timeframe of 3 days, learnt all technologies involved from scratch (React Native, Firebase, Firestore etc), using Figma and React Native and CSS to design and build UI components, Firestore and Firebase storage to handle server size functionalities such as CRUD, user authentication and authorization. 
 
 # Overview 
 <pre>
