@@ -28,7 +28,11 @@ STYLY has 3 main functionalities shown below:
 
 
 # Detailed View 
+### Trending Module 
 
+### Styling Module
+
+### My Boards Module
 
 
 # Installation 
