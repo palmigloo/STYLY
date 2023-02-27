@@ -37,7 +37,7 @@ This Trending module focus on providing the most up to date fashion info and tre
   - Navigate through pages using stack and tab component from React-native-navigation package
   - Add new board and save picture to the board using modal window and alert component
 
-<img src="https://user-images.githubusercontent.com/3084586/221671440-7a23318e-51ca-4a54-bb54-7de76bef7d42.png"  width="255">    <img src="https://user-images.githubusercontent.com/3084586/221671464-cb1f6a9e-be5e-4cea-879f-ecd2a5a75c03.png"  width="250">
+<img src="https://user-images.githubusercontent.com/3084586/221671464-cb1f6a9e-be5e-4cea-879f-ecd2a5a75c03.png"  width="250">  <img src="https://user-images.githubusercontent.com/3084586/221671440-7a23318e-51ca-4a54-bb54-7de76bef7d42.png"  width="255">
 
 ### Styling Module
 
