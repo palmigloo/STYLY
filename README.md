@@ -13,7 +13,7 @@
 
 [Technologies Used](#technologies-used)
 
-[Contributor](#contributor)
+[Author](#Author)
 
 
 # Project Description
@@ -74,7 +74,7 @@ This module gives user all controls of their saved boards by providing features 
   - Deployment 
     - XCode
 
-# Contributor 
+# Author 
 <p align="center">
 <a href="https://github.com/palmigloo"><kbd><img width="175" alt="Abigail" src="https://user-images.githubusercontent.com/3084586/208263347-363a0895-7ede-40f6-8f82-83434178ed66.png"></kbd></a>
 </p>
