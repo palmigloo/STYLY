@@ -52,8 +52,7 @@ This Styling module aims to provide users personalized styling inspirations whic
 This module gives user all controls of their saved boards by providing features below: 
   - Pull to refresh feature to get the most current boards info 
   - Create, Read, Update and Delete board or saved picture in a board by sending request to Firestore and Firebase storage
-  <img src="https://user-images.githubusercontent.com/3084586/221952246-9829e54f-02a1-48ad-81f3-d5748c98f412.gif"  width="250">
- <img src="https://user-images.githubusercontent.com/3084586/221695565-4ca8ba43-2d76-4e5b-99f8-d08d8123c4e0.png"  width="259">
+  <img src="https://user-images.githubusercontent.com/3084586/221952246-9829e54f-02a1-48ad-81f3-d5748c98f412.gif"  width="241">   <img src="https://user-images.githubusercontent.com/3084586/221695565-4ca8ba43-2d76-4e5b-99f8-d08d8123c4e0.png"  width="259">
 
 
 # Installation 
