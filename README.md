@@ -46,13 +46,15 @@ This Styling module aims to provide users personalized styling inspirations whic
   - A quick fashion quiz with 10 different preferrences 
   - Generate 2 total looks based on fashion preferrences provided by the user using a recommendation algorithm
 
-<img src="https://user-images.githubusercontent.com/3084586/221677381-2725aa64-8ff9-4518-9017-d3b6a92f0746.png"  width="250">  <img src="https://user-images.githubusercontent.com/3084586/221677397-6ec072e3-cbbf-4184-82ac-0091ab3d7fc8.png"  width="255">
+<img src="https://user-images.githubusercontent.com/3084586/221677381-2725aa64-8ff9-4518-9017-d3b6a92f0746.png"  width="250">  <img src="https://user-images.githubusercontent.com/3084586/221953335-6f3b750c-aa7f-4d98-aecd-b34ea09ee68b.gif"  width="255">
+
 
 ### My Boards Module
 This module gives user all controls of their saved boards by providing features below: 
   - Pull to refresh feature to get the most current boards info 
   - Create, Read, Update and Delete board or saved picture in a board by sending request to Firestore and Firebase storage
-  <img src="https://user-images.githubusercontent.com/3084586/221952246-9829e54f-02a1-48ad-81f3-d5748c98f412.gif"  width="241">   <img src="https://user-images.githubusercontent.com/3084586/221695565-4ca8ba43-2d76-4e5b-99f8-d08d8123c4e0.png"  width="259">
+
+<img src="https://user-images.githubusercontent.com/3084586/221952246-9829e54f-02a1-48ad-81f3-d5748c98f412.gif"  width="241">   <img src="https://user-images.githubusercontent.com/3084586/221695565-4ca8ba43-2d76-4e5b-99f8-d08d8123c4e0.png"  width="259">
 
 
 # Installation 
