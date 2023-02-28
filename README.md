@@ -22,7 +22,7 @@ STYLY is a cross-platform mobile app for fashion lovers to capture the most curr
 This app was designed and developed under a very limited timeframe of 3 days, I learnt all technologies involved from scratch (React Native, Firebase, Firestore etc), using Figma and React Native and CSS to design and build UI components, Firestore and Firebase storage to handle server side functionalities such as CRUD, user authentication and authorization. 
 
 # Overview 
-STYLY has 3 main functionalities shown below: 
+STYLY has 3 main modules shown below: 
   - Trending Module: This module allows user to check and save the most recent runway shows and fashion trends to a boards for future reference. 
   - Styling Module: This module gives user the opportunities to get some personalized styling ideas by taking a quick fashion quiz of 10 questions, and user can save those fashion ideas in a board.
   - My boards Module: This module holds all user saved boards from Trending and Styling modules, it also allows user to delete a entire board or a picture from a specific board.
@@ -52,8 +52,8 @@ This Styling module aims to provide users personalized styling inspirations whic
 This module gives user all controls of their saved boards by providing features below: 
   - Pull to refresh feature to get the most current boards info 
   - Create, Read, Update and Delete board or saved picture in a board by sending request to Firestore and Firebase storage
-  
-<img src="https://user-images.githubusercontent.com/3084586/221695307-123d5222-e486-42be-9d77-9f67050bb76a.png"  width="250">  <img src="https://user-images.githubusercontent.com/3084586/221695565-4ca8ba43-2d76-4e5b-99f8-d08d8123c4e0.png"  width="259">
+  <img src="https://user-images.githubusercontent.com/3084586/221952246-9829e54f-02a1-48ad-81f3-d5748c98f412.gif"  width="250">
+ <img src="https://user-images.githubusercontent.com/3084586/221695565-4ca8ba43-2d76-4e5b-99f8-d08d8123c4e0.png"  width="259">
 
 
 # Installation 
